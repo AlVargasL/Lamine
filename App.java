@@ -1,6 +1,6 @@
-import Yamal.Circle;
-import Yamal.Square;
-import Yamal.Triangle;
+import U1_TI_02_AyP.Square;
+import U1_TI_02_AyP.Circle;
+import U1_TI_02_AyP.Triangle;
 
 public class App {
     public static void main (String[] args) throws Exception  {

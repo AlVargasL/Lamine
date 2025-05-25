@@ -1,4 +1,4 @@
-package Yamal;
+package U1_TI_02_AyP;
 
 public class Square {
 
