@@ -1,4 +1,4 @@
-package U1_TI_03_Estudiantes;
+package U1_TI_03_Estudiantes.U1_TI_03_Estudiantes_Promedio;
 
 public class Estudiante {
     // Atributos privados

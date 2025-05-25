@@ -1,4 +1,5 @@
-import U1_TI_03_Estudiantes.Estudiante;
+package U1_TI_03_Estudiantes;
+import U1_TI_03_Estudiantes.U1_TI_03_Estudiantes_Promedio.Estudiante;
 
 public class Promedio {
     public static void main(String[] args) {
